@@ -1,1 +1,1 @@
-Repo for my personal website.
+# alanthink.github.io

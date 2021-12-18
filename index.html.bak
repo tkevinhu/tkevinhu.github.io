@@ -55,16 +55,15 @@ window.MathJax = {
 <div class="menu-item"><a href="index.html" class="current">Info</a></div>
 <div class="menu-item"><a href="https://github.com/tkevinhu">GitHub</a></div>
 <div class="menu-item"><a href="https://www.linkedin.com/in/tkevinhu/">LinkedIn</a></div>
-<div class="menu-item"><a href="https://math.stackexchange.com/users/91195/tkhu">MathStackExchange</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
 <h1>Kevin Hu</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="KH.PNG" alt="alt text" width="160px" height="150px" />&nbsp;</td>
+<img src="KH.PNG" alt="alt text" width="150px" height="185px" />&nbsp;</td>
 <td align="left">
-<p>Thanks for visiting. I am a master student in statistics at the University of Toronto. Currently, I'm working in the actuarial field as well. I enjoy learning more about statistics, especially in Bayesian modelling. </p>
+<p>Hello, welcome to my personal webpage. <br>  I'm currently working in an actuarial role based in Toronto. I am also master student in statistics at the University of Toronto as well. <br> I enjoy learning about new methods in statistics and AI. My current interest is in Bayesian modelling. <br><br> Feel free to reach out to me at tkevin.hu@gmail.com. </p>
 </td></tr></table>
 <h2>Education</h2>
 <ul>
@@ -75,17 +74,17 @@ window.MathJax = {
 
 <h2>Projects</h2>
 <ul>
-<li><p>Project 1</p>
-<li><p>Project 2</p>
-<li><p>Project 3</p>
+<li><p><a href="https://github.com/michael-chong/supreme-court" target=&ldquo;blank&rdquo;>Exploring Extra-Legal Influences on US Supreme Court Decisions</a><br>This is a joint projects with other University of Toronto graduate students. We built a random forest model to predict Supreme Court decision direction. <br>I mainly worked on exploratory data analysis and model explanability via <a href="https://github.com/marcotcr/lime" target=&ldquo;blank&rdquo;>LIME</a>.</p>
+<li><p><a href="https://github.com/tkevinhu/bayesian-insurance" target=&ldquo;blank&rdquo;>Bayesian Statistics for Travel Insurance Modeling</a><br>This is an individual project where I compared frequentist and Bayesian logistic regressions. Models were built in R and <a href="https://mc-stan.org/users/interfaces/rstan" target=&ldquo;blank&rdquo;>stan</a>.</p>
+<li><p><a href="https://github.com/tkevinhu/genetics-ml" target=&ldquo;blank&rdquo;>Predicting Cancer Types Based on Genetics Expressions</a><br>This is an individual project where I built neural network, multiclass logistic regression and random forest models in Python and <a href="https://azure.microsoft.com/en-us/services/machine-learning/" target=&ldquo;blank&rdquo;>MS Azure Machine Learning</a>.<br>Packages used include Tensorflow, Keras, Scikit-learn etc.</p>
+
 </li>
 </ul>
 
 <h2>Others</h2>
 <ul>
-<li><p>Project 1</p>
-<li><p>Project 2</p>
-<li><p>Project 3</p>
+<li><p><a href="https://www.soa.org/education/exam-req/edu-asa-req/" target=&ldquo;blank&rdquo;>Associate of the Society of Actuaries (ASA)</a></p>
+<li><p><a href="https://prmia.org/Public/PRM/What_is_the_PRM_Designation.aspx" target=&ldquo;blank&rdquo;>Professional Risk Manager (PRM)</a></p>
 </li>
 </ul>
 <div id="footer">
